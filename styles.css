@@ -1,0 +1,360 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;700&display=swap');
+
+@import url("https://use.typekit.net/vvg8klh.css");
+
+
+
+body, html{
+    height:100%;
+    margin:0; 
+    padding:0;
+    font-family: "Droid Serif";
+    font-size: 16px;
+}
+
+h1{ 
+font-family: "Oswald";
+font-size: 45px;
+
+}
+
+
+
+.logo{
+width:65px; 
+height: 120px;
+object-fit: cover;   
+
+}
+
+.nav-bar {
+  background-color: #044344;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+
+}
+
+nav { 
+  display: flex;
+  }
+
+nav li{ 
+list-style: none;
+display: inline-block;
+}
+
+nav li a { 
+text-decoration-line: none;
+color: #ff2a5c;
+padding: 0 20px;
+line-height: 30px;
+font-family: "Oswald"; 
+font-weight: 700;
+font-size: 16px;
+}
+
+.hero-image{ 
+background-image: url(Graphics/Miles%20Hero%20Image%20copy.jpg);
+height: 100vh;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+
+
+
+}
+
+.hero-text{ 
+position: absolute; 
+color:#ff2a5c;
+top:37%;
+left:15%;
+line-height:20px;
+}
+
+.hero-text h1{ 
+font-size:90px; 
+}
+
+.hero-text h2{ 
+font-family: "Oswald";
+font-weight: 300;
+font-size:65px;
+
+}
+
+.quote-1{ 
+text-align: center;
+padding: 20px 90px;
+font-size: 45px;
+color:#ffca00;
+background-color:#ff2a5c; 
+
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container img {
+  object-fit: cover;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.column_2 {
+  flex: 50%;
+}
+
+.column_3{ 
+flex:50%;
+
+}
+
+.background{ 
+background-color:#044344; 
+}
+
+.background h1{ 
+text-align: center;
+margin: 70px 0 0 60px;
+color:#ff2a5c;
+}
+
+.bg-text{ 
+  margin-left: 100px;
+    padding-right:20px;
+line-height: 1.4;
+text-align: left;
+color:#ffca00;
+}
+
+.miles-1{ 
+width:70%;
+height:100%;
+margin-left: 30px;
+}
+
+
+.early-years{
+background-color:#ffca00;
+    
+}
+.miles-2{ 
+width:70%;
+height:100%;
+margin-left: 110px;
+}
+
+.early-years h1{
+    margin-left: 79px;
+    margin-bottom: 0;
+    color:#ff2a5c;
+    
+}
+.ey-text{ 
+margin-right: 100px;
+color:#044344;
+line-height: 1.4;
+}
+
+.success{ 
+background-color:#044344;
+}
+
+.success h1{ 
+text-align: center;
+margin:70px 0 0 60px;
+color:#ff2a5c;
+}
+.cs-text{
+   margin-left: 100px;
+    padding-right:20px;
+    color:#ffca00;
+    line-height: 1.4;
+    
+}
+
+.miles-3{ 
+width:67%;
+margin-left: 30px;
+}
+
+
+.hiatus{ 
+background-color: #ff97e3;
+padding: 20px 0;
+
+}
+
+.hiatus h1{ 
+text-align: center;
+margin-bottom: auto;
+margin-top: 50px;
+color:#044344;
+}
+
+.h-text{ 
+text-align: center;
+padding: 0 120px 100px 150px;
+color:#044344;
+line-height: 1.4;
+}
+
+.comeback{ 
+background-color:#ffca00 ;
+}
+
+.comeback h1{ 
+  margin-top:130px;
+  margin-bottom: auto;
+  padding-left:50px;
+  color:#ff2a5c;
+
+}
+
+.cb-text{ 
+text-align: left;
+margin-right: 100px;
+line-height: 1.4;
+color:#044344;
+}
+
+.miles-5{ 
+height:100%;
+width:65%;
+margin-left:100px;
+
+}
+
+.final-years{ 
+background-color:#044344;
+}
+
+.final-years h1{ 
+color:#ff2a5c;
+text-align: center;
+margin: 70px 0 0 60px;
+}
+
+.fy-text{ 
+color:#ffca00;
+margin-left: 100px;
+    padding-right:20px;
+line-height: 1.4;
+text-align: left;
+}
+
+.miles-6{ 
+  width:70%;
+  height:100%;
+  margin-left: 30px;
+}
+
+.death{ 
+  background-color: #ff97e3;
+  padding: 20px 0;
+  
+  }
+  
+  .death h1{ 
+  text-align: center;
+  margin-bottom: auto;
+  margin-top: 50px;
+  color:#044344;
+  }
+  
+  .d-text{ 
+  text-align: center;
+  padding: 0 120px 100px 150px;
+  color:#044344;
+  line-height: 1.4;
+  }
+.collage{ 
+  margin: 0 75px;
+}
+
+  .miles-7{ 
+width:75%;
+  }
+  .miles-8{ 
+width:75%;
+  }
+  .quote-2{ 
+  text-align: center;
+ background-color:#ffca00;
+ 
+  }
+
+  .discography{ 
+    padding: 20px 0;
+  }
+
+  .discography h1 { 
+text-align: center;
+  }
+
+  
+  footer{
+    background-color: #ff2a5c;
+    padding: 40px 0;
+  }
+
+footer li{
+  list-style: none;
+ }
+
+ footer li a{ 
+  text-decoration-line: none;
+  color:#044344;
+  padding-left: 100px;
+  line-height: 30px;
+  font-family: "Oswald"; 
+  font-weight: 700;
+  font-size: 16px;
+
+ }
+
+  footer .media li{ 
+    list-style: none;
+    display:inline;
+    
+    }
+    footer .media li a { 
+      padding: 0 10px;
+      
+      }
+    
+      .media{ 
+        margin-left:600px;
+        margin-top:50px;
+      }
+  
+  .twitter{ 
+    width:10%;
+  }
+  .spotify{ 
+    width:10%;
+  }
+
+  .instagram { 
+    width:10%;
+  }
+
+  .youtube{ 
+    width:12%;
+  }
+
+  .copyright{ 
+
+    text-align: center;
+  }

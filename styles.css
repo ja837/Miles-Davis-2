@@ -10,12 +10,12 @@ body, html{
     margin:0; 
     padding:0;
     font-family: "Droid Serif";
-    font-size: 18px;
+    font-size: 16px;
 }
 
 h1{ 
 font-family: "Oswald";
-font-size: 48px;
+font-size: 45px;
 
 }
 
@@ -81,20 +81,20 @@ line-height:20px;
 }
 
 .hero-text h1{ 
-font-size:130px; 
+font-size:90px; 
 }
 
 .hero-text h2{ 
 font-family: "Oswald";
 font-weight: 300;
-font-size:90px;
+font-size:65px;
 
 }
 
 .quote-1{ 
 text-align: center;
-padding: 30px;
-font-size: 60px;
+padding: 20px;
+font-size: 40px;
 line-height: 1.2;
 color:#ffca00;
 background-color:#ff2a5c; 
@@ -134,24 +134,24 @@ position:relative;
 }
 
 .rectangle{
-  width: 361px; 
-height:805px;
+  width: 273.3px; 
+height:645px;
 background: #ff97e3;
 position:absolute; 
 bottom:0px; 
-left: 81%;
+left: 82%;
 }
 
 .background h1{ 
 text-align: center;
-margin: 100px 0 0 60px;
+margin: 50px 0 0 60px;
 color:#ff2a5c;
 }
 
 .bg-text{ 
   margin-left: 100px;
     padding :0 40px;
-line-height: 2;
+line-height: 1.8;
 text-align: left;
 color:#ffca00;
 }
@@ -176,8 +176,8 @@ margin-left: 150px;
 z-index: 3;
 }
 .square{
-  width: 290px; 
-  height:300px;
+  width: 190px; 
+  height:200px;
   background: #ff97e3;
   position:absolute; 
   bottom:-60px; 
@@ -186,23 +186,24 @@ z-index: 3;
   }
 
 .early-years h1{
-    margin-top: 75px;
-    margin-left: 200px;
+    margin-top: 30px;
+    margin-left: 185px;
     margin-bottom: 0;
     color:#ff2a5c;
     
 }
 .ey-text{ 
-margin-right: 140px;
+margin-right: 100px;
+padding-left:70px;
 color:#044344;
-line-height: 2;
+line-height: 1.8;
 }
 
 .shape{ 
   position:absolute;
-  width:690px;
-  bottom:-30px;
-  left:-160px;
+  width:640px;
+  bottom:-50px;
+  left:-130px;
 
 }
 
@@ -213,7 +214,7 @@ position: relative;
 
 .success h1{ 
 text-align: center;
-margin:90px 0 0 90px;
+margin:70px 0 0 120px;
 color:#ff2a5c;
 }
 .cs-text{
@@ -221,7 +222,7 @@ color:#ff2a5c;
     padding-right:10px;
     padding-left:40px;
     color:#ffca00;
-    line-height: 2;
+    line-height: 1.8;
     
 }
 
@@ -240,15 +241,15 @@ padding: 20px 50px;
 .hiatus h1{ 
 text-align: center;
 margin-bottom: auto;
-margin-top: 50px;
+margin-top: 30px;
 color:#044344;
 }
 
 .h-text{ 
 text-align: center;
-padding: 0 140px 100px 150px;
+padding: 0 120px 50px 130px;
 color:#044344;
-line-height: 2;
+line-height: 1.8;
 }
 
 .comeback{ 
@@ -256,12 +257,12 @@ background-color:#ffca00 ;
 position:relative;
 }
 .rectangle-2{
-  width: 300px; 
-height:850px;
+  width: 350px; 
+height:680.2px;
 background: #ff2a5c;
 position:absolute; 
 bottom:0px; 
-right: 84.7%;
+right: 83%;
 }
 
 .shape-2{ 
@@ -269,19 +270,19 @@ right: 84.7%;
   top: 5;
   right:0px;
  
-  width:58.8%;
+  width:57.5%;
 
 }
 
 .shape-3{ 
 position:absolute;
-bottom: -4px;
-left:783px;
+bottom: -6px;
+left:647.5px;
 width:200px;
 }
 
 .comeback h1{ 
-  margin-top:300px;
+  margin-top:225px;
   margin-bottom: auto;
   padding-left:110px;
   color:#ff2a5c;
@@ -290,9 +291,9 @@ width:200px;
 
 .cb-text{ 
 text-align: left;
-margin-right: 190px;
+margin-right: 50px;
 margin-left:-20px;
-line-height: 2;
+line-height: 1.8;
 color:#044344;
 }
 
@@ -317,7 +318,7 @@ position:relative;
 
 .shape-5{ 
 position: absolute;
-top:-1px;
+top:0px;
 width:400px;
 right: 0;
 
@@ -328,14 +329,14 @@ right: 0;
 .final-years h1{ 
 color:#ff2a5c;
 text-align: center;
-margin: 90px 0 0 60px;
+margin: 40px 0 0 50px;
 }
 
 .fy-text{ 
 color:#ffca00;
-margin-left: 150px;
-    padding-right:20px;
-line-height: 2;
+margin-left: 120px;
+    padding-right:50px;
+line-height: 1.8;
 text-align: left;
 }
 
@@ -354,13 +355,13 @@ padding: 20px 50px;
   .death h1{ 
   text-align: center;
   margin-bottom: auto;
-  margin-top: 50px;
+  margin-top: 30px;
   color:#044344;
   }
   
   .d-text{ 
   text-align: center;
-  padding: 0 120px 100px 150px;
+  padding: 0 120px 50px 180px;
   color:#044344;
   line-height: 1.8;
   }
@@ -387,7 +388,7 @@ color:#ffca00
   }
   .carousel-cell {
     width: 20%; /* full width */
-    height: 350px; /* height of carousel */
+    height: 300px; /* height of carousel */
     margin-right: 40px;
     background: lightgreen;
     opacity: .5;

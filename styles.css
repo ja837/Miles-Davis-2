@@ -48,7 +48,7 @@ display: inline-block;
 
 nav li a { 
 text-decoration-line: none;
-color: #ff2a5c;
+color: #ffca00;
 padding: 0 20px;
 line-height: 30px;
 font-family: "Oswald"; 
@@ -57,7 +57,11 @@ font-size: 20px;
 }
 
 nav li a:hover { 
-color:#ffca00;
+color:#ff2a5c; 
+}
+
+nav li a:active{
+  color:#ff97e3;
 }
 
 .hero-image{ 
@@ -151,7 +155,7 @@ color:#ff2a5c;
 .bg-text{ 
   margin-left: 100px;
     padding :0 40px;
-line-height: 1.8;
+line-height: 1.5;
 text-align: left;
 color:#ffca00;
 }
@@ -196,7 +200,7 @@ z-index: 3;
 margin-right: 100px;
 padding-left:70px;
 color:#044344;
-line-height: 1.8;
+line-height: 1.5;
 }
 
 .shape{ 
@@ -444,17 +448,20 @@ color:#ffca00
   
   footer{
     background-color: #ff2a5c;
-    padding: 40px 0;
+    padding: 60px 0;
+    align-items: center;
   }
 
 footer li{
   list-style: none;
+  display: inline-block;
+  
  }
 
  footer li a{ 
   text-decoration-line: none;
   color:#044344;
-  padding-left: 200px;
+  padding-left: 50px;
   line-height: 40px;
   font-family: "Oswald"; 
   font-weight: 700;
@@ -478,7 +485,7 @@ footer li{
     
       .media{ 
         margin-right:300px;
-        margin-top:100px;
+        
         
       }
 
